@@ -9,6 +9,7 @@ define Package/dummysecond
   SECTION:=base
   CATEGORY:=Network
   TITLE:=Second dummy package
+  DEPENDS:=dummyfirst
 endef
 
 define Package/dummysecond/description

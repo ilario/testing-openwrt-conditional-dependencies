@@ -1,6 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=dummyfirst
+PKG_VERSION:=1
 
 include $(INCLUDE_DIR)/package.mk
 
